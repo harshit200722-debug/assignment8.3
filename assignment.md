@@ -1,11 +1,12 @@
-name=Assignment-1.1.md
-Assignment 1.1 — How a Website Works[cite: 1]
-Task: Explain in a single paragraph how a website opens on the screen after typing a URL.[cite: 1]
-What to do:
+name=Assignment-8.3.md
+Assignment 8.3 — Magazine Layout Using Grid Areas[cite: 38]
+What to build: A magazine or news-style webpage[cite: 38].
+Steps:
 
-1. Understand the basic roles of browser, client, server, and database.[cite: 1]
-2. Write the meanings of HTTP and HTTPS.[cite: 1]
-3. Explain the request-response cycle.[cite: 1]
-4. Write the differences between a static and a dynamic website.[cite: 1]
-5. Open Chrome DevTools and inspect requests in the Network tab of any website.[cite: 1]
-Submission: An explanatory paragraph and a screenshot of the Network tab.[cite: 1]
+1. Create header, navigation, main article, sidebar, and footer sections[cite: 38].
+2. Define a grid container[cite: 38].
+3. Set the layout using `grid-template-areas`[cite: 38].
+4. Assign a named grid area to each section[cite: 38].
+5. Give the main article more space than the sidebar[cite: 38].
+6. Test different section sizes and alignments[cite: 38].
+Submission: Magazine-style layout and grid-area CSS code[cite: 38].
